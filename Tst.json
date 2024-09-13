@@ -1,142 +1,142 @@
 {
-    "name": "Cozy Theme",
-    "description": "A warm and inviting theme for a cozy experience.",
-    "version": "1.0.0",
-    "authors": [
-      {
-        "name": "Blue",
-        "id": "811210927126872094"
-      }
-    ],
-    "theme_color_map": {
-      "HEADER_PRIMARY": [
-        "#444444",
-        "#444444"
-      ],
-      "HEADER_SECONDARY": [
-        "#1d1d1d",
-        "#1d1d1d"
-      ],
-      "NORMAL_TEXT": [
-        "#3D2A2A",
-        "#3D2A2A"
-      ],
-      "TEXT_MUTED": [
-        "#B7A99A",
-        "#B7A99A"
-      ],
-      "INTERACTIVE_NORMAL": [
-        "#444444",
-        "#444444"
-      ],
-      "INTERACTIVE_HOVER": [
-        "#1d1d1d",
-        "#1d1d1d"
-      ],
-      "INTERACTIVE_ACTIVE": [
-        "#999999",
-        "#999999"
-      ],
-      "INTERACTIVE_MUTED": [
-        "#B7A99A",
-        "#B7A99A"
-      ],
-      "BACKGROUND_PRIMARY": [
-        "#444444",
-        "#444444"
-      ],
-      "BACKGROUND_SECONDARY": [
-        "#5b5b5b",
-        "#5b5b5b"
-      ],
-      "BACKGROUND_SECONDARY_ALT": [
-        "#F0BDA3",
-        "#F0BDA3"
-      ],
-      "TERTIARY_BACKGROUND": [
-        "#E8B1A0",
-        "#E8B1A0"
-      ],
-      "BACKGROUND_ACCENT": [
-        "#FFEDC1",
-        "#FFEDC1"
-      ],
-      "BACKGROUND_FLOATING": [
-        "#D8C3A5",
-        "#D8C3A5"
-      ],
-      "BACKGROUND_MOBILE_PRIMARY": [
-        "#F8E1D4",
-        "#F8E1D4"
-      ],
-      "BACKGROUND_MOBILE_SECONDARY": [
-        "#F0C3A0",
-        "#F0C3A0"
-      ],
-      "BACKGROUND_NESTED_FLOATING": [
-        "#F0BDA3",
-        "#F0BDA3"
-      ],
-      "BACKGROUND_MODIFIER_HOVER": [
-        "rgba(255, 111, 97, 0.1)",
-        "hsla(0, 0%, 0%, 0.05)"
-      ],
-      "BACKGROUND_MODIFIER_SELECTED": [
-        "rgba(255, 111, 97, 0.2)",
-        "hsla(0, 0%, 0%, 0.1)"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT": [
-        "transparent",
-        "hsla(0, 0%, 0%, 0.00)"
-      ],
-      "SCROLLBAR_THIN_THUMB": [
-        "#FF6F61",
-        "hsla(0, 0%, 0%, 0.0)"
-      ],
-      "SCROLLBAR_AUTO_TRACK": [
-        "rgba(255, 255, 255, 0.5)",
-        "#D8C3A5"
-      ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-        "#F0C3A0",
-        "#F0C3A0"
-      ],
-      "CHANNELS_DEFAULT": [
-        "#6A4F4B",
-        "#6A4F4B"
-      ],
-      "TEXT_LINK": [
-        "#FF6F61",
-        "#FF6F61"
-      ],
-      "KEYBOARD": [
-        "#6A4F4B",
-        "#6A4F4B"
-      ]
-    },
-    "colors": {
-      "PRIMARY_DARK": "#6A4F4B",
-      "PRIMARY_DARK_100": "#6A4F4B",
-      "PRIMARY_DARK_200": "#6A4F4B",
-      "PRIMARY_DARK_300": "#6A4F4B",
-      "PRIMARY_DARK_360": "#6A4F4B",
-      "PRIMARY_DARK_400": "#6A4F4B",
-      "PRIMARY_DARK_500": "#6A4F4B",
-      "PRIMARY_DARK_600": "#6A4F4B",
-      "PRIMARY_DARK_630": "#6A4F4B",
-      "PRIMARY_DARK_700": "#6A4F4B",
-      "PRIMARY_DARK_800": "#6A4F4B",
-      "BRAND_NEW": "#FF6F61",
-      "STATUS_RED": "#D9534F",
-      "STATUS_GREEN_600": "#0c400c",
-      "YELLOW_STATE": "#F0AD4E"
-    },
-    "unsafe_colors": {
-      "CHAT_GREY": "#B7A99A"
-    },
-    "background": {
-      "blur": 0.5,
-      "url": "https://t3.ftcdn.net/jpg/07/51/97/60/360_F_751976054_8YNwmXumBlHzuFAw6GXoQ5Tye9mxs6EV.jpg",
-      "alpha": 1.0
+  "name": "Chill Black and Grey",
+  "description": "A relaxing theme with a black and grey color palette.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "seregonwar",
+      "id": "705853948052897813"
     }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "HEADER_SECONDARY": [
+      "#333333",
+      "#333333"
+    ],
+    "NORMAL_TEXT": [
+      "#e0e0e0",
+      "#e0e0e0"
+    ],
+    "TEXT_MUTED": [
+      "#b3b3b3",
+      "#b3b3b3"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#4d4d4d",
+      "#4d4d4d"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#666666",
+      "#666666"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#808080",
+      "#808080"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#999999",
+      "#999999"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0d0d0d",
+      "#0d0d0d"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#262626",
+      "#262626"
+    ],
+    "TERTIARY_BACKGROUND": [
+      "#333333",
+      "#333333"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#404040",
+      "#404040"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0d0d0d",
+      "#0d0d0d"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#262626",
+      "#262626"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.1)",
+      "hsla(0, 0%, 0%, 0.1)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.2)",
+      "hsla(0, 0%, 0%, 0.2)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(255, 255, 255, 0.05)",
+      "hsla(0, 0%, 0%, 0.05)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#666666",
+      "hsla(0, 0%, 0%, 0.5)"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.2)",
+      "#1a1a1a"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "TEXT_LINK": [
+      "#e0e0e0",
+      "#e0e0e0"
+    ],
+    "KEYBOARD": [
+      "#333333",
+      "#333333"
+    ]
+  },
+  "colors": {
+    "PRIMARY_DARK": "#0d0d0d",
+    "PRIMARY_DARK_100": "#1a1a1a",
+    "PRIMARY_DARK_200": "#262626",
+    "PRIMARY_DARK_300": "#333333",
+    "PRIMARY_DARK_360": "#404040",
+    "PRIMARY_DARK_400": "#4d4d4d",
+    "PRIMARY_DARK_500": "#666666",
+    "PRIMARY_DARK_600": "#808080",
+    "PRIMARY_DARK_630": "#999999",
+    "PRIMARY_DARK_700": "#b3b3b3",
+    "PRIMARY_DARK_800": "#e0e0e0",
+    "BRAND_NEW": "#1a1a1a",
+    "STATUS_RED": "#ff4d4d",
+    "STATUS_GREEN_600": "#4dff4d",
+    "YELLOW_STATE": "#ffff4d"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#666666"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "background photo link here",
+    "alpha": 1.0
   }
+}
